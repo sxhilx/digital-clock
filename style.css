@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+#clock{
+    width: 700px;
+    border: 1px solid #00FF00;
+    border-radius: 10px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #00FF00; /* green text color */
+    text-shadow: 0 0 5px #00FF00, 0 0 10PX #00FF00, 0 0 20PX #00FF00; 
+}
+
+h1{
+    color: #00FF00;
+    text-shadow: 0 0 5px #00FF00, 0 0 10PX #00FF00, 0 0 20PX #00FF00;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10%;
+}
